@@ -1,4 +1,4 @@
-# 🤖✨ Friendly AI Chatbot
+<h1 align="center"># 🤖✨ Friendly AI Chatbot</h1>
 
 <div align="center">
 
@@ -135,29 +135,21 @@ python app.py
 
 ## 🏗️ **Project Architecture**
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="200">
-</div>
-
 ```
 friendly-chatbot/
 │
-├── 📁 backend/
-│   ├── 🐍 app.py              # Flask server
-│   ├── 🔐 .env                # API keys
-│   ├── 📋 requirements.txt    # Dependencies
-│   └── 🧪 utils.py           # Helper functions
+├── backend/
+│   ├── app.py
+│   ├── .env
+│   ├── requirements.txt
 │
-├── 📁 frontend/
-│   ├── 🎨 index.html         # Main interface
-│   ├── 💄 style.css          # Styling
-│   ├── ⚡ script.js          # Frontend logic
-│   └── 🖼️ assets/           # Images & icons
+├── frontend/
+│   ├── index.html
+│   ├── script.js
+│   └── styles.css
 │
-├── 📁 docs/
-│   └── 📚 API.md             # API documentation
-│
-└── 📖 README.md
+└── README.md
+
 ```
 
 ---
@@ -281,17 +273,9 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **Enjoyed this project? Give it a ⭐!**
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/yourusername)
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourusername?style=social)](https://twitter.com/yourusername)
-
-**Have questions or feedback?**
-- 📧 Email: your.email@example.com
-- 💬 Twitter: [@yourusername](https://twitter.com/yourusername)
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/friendly-chatbot/issues)
-
 <img src="https://user-images.githubusercontent.com/74038190/212284071-0b9d2a65-69c9-44a7-be7b-86d9a91b0238.gif" width="400">
 
-**Made with 💜 by [Your Name]**
+**Made with 💜 by Karthikeyan K R**
 
 *Building the future, one conversation at a time.*
 
