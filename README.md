@@ -196,21 +196,6 @@ friendly-chatbot/
 4. **Export** and integrate with your Flask backend
 
 ---
-
-## 🌟 **Demo & Screenshots**
-
-<div align="center">
-
-### 💬 **Chat Interface**
-*Beautiful, responsive design that adapts to any device*
-
-<img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceea7-de32-4a67-a5c2-dda3c2209c9d.gif" width="600">
-
-### ⚡ **Real-time Responses**
-*Instant AI-powered conversations*
-
-</div>
-
 ---
 
 ## 🔮 **Future Roadmap**
@@ -267,7 +252,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-## 💌 **Support & Contact**
+## 💌 **Support**
 
 <div align="center">
 
