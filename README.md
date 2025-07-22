@@ -142,18 +142,22 @@ python app.py
 ```
 friendly-chatbot/
 │
-├── backend/
-│   ├── app.py
-│   ├── .env
-│   ├── requirements.txt
+├── 📁 backend/
+│   ├── 🐍 app.py              # Flask server
+│   ├── 🔐 .env                # API keys
+│   ├── 📋 requirements.txt    # Dependencies
+│   └── 🧪 utils.py           # Helper functions
 │
-├── frontend/
-│   ├── index.html
-│   ├── script.js
-│   └── styles.css
+├── 📁 frontend/
+│   ├── 🎨 index.html         # Main interface
+│   ├── 💄 style.css          # Styling
+│   ├── ⚡ script.js          # Frontend logic
+│   └── 🖼️ assets/           # Images & icons
 │
-└── README.md
-
+├── 📁 docs/
+│   └── 📚 API.md             # API documentation
+│
+└── 📖 README.md
 ```
 
 ---
@@ -219,9 +223,9 @@ friendly-chatbot/
 
 ## 🔮 **Future Roadmap**
 
-<div align="right">
-<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="200">
-</div>
+<table>
+<tr>
+<td width="70%" valign="top">
 
 - [ ] 🔐 **User Authentication** - Personalized chat experiences
 - [ ] 💾 **Chat History** - Database integration for message persistence  
@@ -231,6 +235,15 @@ friendly-chatbot/
 - [ ] 🔍 **Advanced Search** - Search through chat history
 - [ ] 🎨 **Theme Customization** - Multiple UI themes
 - [ ] 📊 **Analytics Dashboard** - Usage statistics and insights
+
+</td>
+<td width="30%" align="right" valign="top">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="200">
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -267,6 +280,14 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 <div align="center">
 
 **Enjoyed this project? Give it a ⭐!**
+
+[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/yourusername)
+[![Twitter Follow](https://img.shields.io/twitter/follow/yourusername?style=social)](https://twitter.com/yourusername)
+
+**Have questions or feedback?**
+- 📧 Email: your.email@example.com
+- 💬 Twitter: [@yourusername](https://twitter.com/yourusername)
+- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/friendly-chatbot/issues)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284071-0b9d2a65-69c9-44a7-be7b-86d9a91b0238.gif" width="400">
 
