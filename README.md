@@ -219,7 +219,7 @@ friendly-chatbot/
 
 ## 🔮 **Future Roadmap**
 
-<div align="center">
+<div align="right">
 <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="200">
 </div>
 
@@ -270,7 +270,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284071-0b9d2a65-69c9-44a7-be7b-86d9a91b0238.gif" width="400">
 
-**Made with 💜 by [Karthikeyan K R]**
+**Made with 💜 by [Your Name]**
 
 *Building the future, one conversation at a time.*
 
